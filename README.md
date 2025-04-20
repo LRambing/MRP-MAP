@@ -10,7 +10,7 @@
 
 3. Cage173
   - Description: Cage for cantain scp 173!
-  - Coords: x: 0, y: 0, z: 0
+  - Work with cage plugin
 
 # **Manual**
 
