@@ -16,6 +16,14 @@
   - Description: Armory room in EZ
   - Coords: x: 0, y: 0, z: 0
 
+5. GateBEZ
+  - Description: Gate B in EZ castom map
+  - Coords: x: 0, y: 0, z: 0
+
+6. GateAEZ
+  - Description: Gate A in EZ castom Map (not finished)
+  - Coords: x: 0, y: 0, z: 0
+
 # **Manual**
 
 1. Put file by extension .json in folder with file name 
