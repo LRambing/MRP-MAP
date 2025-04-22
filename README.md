@@ -12,6 +12,10 @@
   - Description: Cage for cantain scp 173!
   - Work with cage plugin
 
+4. Guns (armory room)
+  - Description: Armory room in EZ
+  - Coords: x: 0, y: 0, z: 0
+
 # **Manual**
 
 1. Put file by extension .json in folder with file name 
