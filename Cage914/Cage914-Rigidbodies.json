@@ -1,0 +1,20 @@
+{
+  "-12722": {
+    "IsKinematic": false,
+    "UseGravity": true,
+    "Constraints": 0,
+    "Mass": 1.0
+  },
+  "-13138": {
+    "IsKinematic": false,
+    "UseGravity": true,
+    "Constraints": 0,
+    "Mass": 1.0
+  },
+  "-13146": {
+    "IsKinematic": false,
+    "UseGravity": true,
+    "Constraints": 0,
+    "Mass": 1.0
+  }
+}
