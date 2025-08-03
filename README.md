@@ -9,7 +9,7 @@
   - Coords: x: 0, y: 0, z: 0
 
 3. Cage173
-  - Description: Cage for cantain scp 173!
+  - Description: Cage for recontainment scp 173!
   - Work with cage plugin
 
 4. Guns (armory room)
